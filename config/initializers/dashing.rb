@@ -9,6 +9,16 @@ Dashing.configure do |config|
   # config.redis_port     = '6379'
   # config.redis_password = nil
   # config.redis_timeout  = 3
+   
+
+  # Redis credentials.
+  # See https://devcenter.heroku.com/articles/redistogo to configure redis for heroku.
+
+
+
+
+
+
 
   # Redis namespace when pushing new data.
   # config.redis_namespace = 'dashing_events'
